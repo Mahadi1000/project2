@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* banner section style */
+.banner{
+    display: flex;
+    padding: 30px 30px 0px 150px;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner-copntent{
+        max-width: 500px;
+}
+.name{
+    font-size: 60px;
+}
+.profile-pic{
+    width: 500px;
+    height: 600px;
+}
+.banner-text{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btn{
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+/* feature section style */
+.feature{
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+}
+.header-feature{
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.feature-text{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    
+   
+}
+/* flowers */
+#image{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+    max-width: 100%;
+    justify-content: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 300px 300px 0px 0px;
+    
+    padding: 50px 100px;
+    width: 100px;
+    height: 200px;
+}
+.image img{
+    height: 250px;
+    width: 200px;
+
+}
+.image-1{
+    background: rgba(167, 33, 98, 0.15);
+    
+}
+.image-2{
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 20px;
+}
+.image-3{
+    background: rgba(71, 125, 17, 0.15);
+    margin-left: 20px;
+}
+
