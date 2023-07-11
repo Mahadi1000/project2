@@ -86,7 +86,7 @@
 .text-container{
     display: flex;
 }
-.flower-text-1{
+/* .flower-text-1{
     margin-top: 10px;
     margin-left: 300px;
 }
@@ -97,7 +97,7 @@
 .flower-text-3{
     margin-left: 140px;
     margin-top: 10px;
-}
+} */
 .flower-text{
     color: #272727;
     text-align: center;
